@@ -6,9 +6,9 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class ConnectionUtil {
-    private static final String URL = "jdbc:mysql://sql11.freemysqlhosting.net/sql11523249";
-    private static final String USERNAME = "sql11523249";
-    private static final String PASSWORD = "ZJZ2du1lac";
+    private static final String URL = "YOUR REMOTE DB";
+    private static final String USERNAME = "USER NAME";
+    private static final String PASSWORD = "PASSWORD";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
