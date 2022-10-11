@@ -1,7 +1,7 @@
 <h1 align="center">Taxi-Service <a href="https://github.com/sergeiburya" target="_blank">Serhii Buria</a></h1>
 <div align="center"><img  src="taxi.png" height="100" title="Logo" alt=""/></div></div>
 
-## Taxi Service Management Web Application
+<h2 align="center">Taxi Service Management Web Application</h2>
 
 ### Project Description.
 
