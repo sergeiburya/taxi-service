@@ -1,4 +1,4 @@
-<h1 align="center">Taxi-Service <a href="https://github.com/sergeiburya" target="_blank">Serhii Buria</a></h1>
+<h1 align="center">Taxi-Service</h1>
 <div align="center"><img  src="taxi.png" height="100" title="Logo" alt=""/></div></div>
 
 <h2 align="center">Taxi Service Management Web Application</h2>
@@ -29,19 +29,17 @@ The application has the following functions:
 * Controllers - Presentation layer
 
 ### Used technologies and libraries:
-
-* Java 11
-* Git
-* Apache Maven
-* Apache Tomcat
-* Apache Log4j 2
-* MySQL
-* JDBC
-* Javax Servlet
-* JSP
-* JSTL
-* HTML/CSS
-* Checkstyle plugin
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=java&logo=java&logoColor=white)
+![Sql](https://img.shields.io/badge/SQL-F8F8FF?style=flat&logo=mysql&logoColor=0000CD)
+![Git](https://img.shields.io/badge/Git-F8F8FF?style=flat&logo=Git&logoColor=FF0000)
+![Hibernate](https://img.shields.io/badge/Hibernate-FFD700?style=flat&logo=Hibernate&logoColor=808080)
+![Maven](https://img.shields.io/badge/Maven-F8F8FF?style=flat&logo=apachemaven&logoColor=F4A460)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=apache&logo=apache-tomcat&logoColor=black)
+![JDBC](https://img.shields.io/badge/JDBC-008B8B?style=flat&logo=jdbc&logoColor=F8F8FF)
+![Javax](https://img.shields.io/badge/Javax-FFE4B5?style=flat&logo=Javax&logoColor=F8F8FF)
+![JSP](https://img.shields.io/badge/JSP-F8F8FF?style=flat&logo=jsp&logoColor=F4A460D)
+![JSTL](https://img.shields.io/badge/JSTL-F8F8FF?style=flat&logo=JSTL&logoColor=F8F8FF)
+![Html](https://img.shields.io/badge/HTML-F8F8FF?style=flat&logo=html5&logoColor=black)
 
 ### Steps to run the program on your computer:
 1. Clone the repo: https://github.com/sergeiburya/taxi-service
@@ -58,5 +56,4 @@ at line 7 with your ABSOLUTE_PATH to this project
 9. The application is running. Get to work
 
 ### About me
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeiburya&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeiburya&theme=solarized_dark)
+I am a beginner java developer, you can learn more about me on my page - [Serhii Buria](https://github.com/sergeiburya).
